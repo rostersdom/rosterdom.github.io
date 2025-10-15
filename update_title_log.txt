@@ -1,0 +1,72 @@
+2025-10-13 21:50:52 - Update title request
+User ID: 1
+Photo ID: 41, Title: Боженька
+Title column exists: YES
+Photo found: YES
+Photo user ID: 1, Current user ID: 1
+Updating title...
+Update result: SUCCESS
+Rows affected: 1
+Title updated successfully
+Request completed
+
+2025-10-14 13:01:10 - Update title request
+User ID: 3
+Photo ID: 43, Title: Я и моя молая
+Title column exists: YES
+Photo found: YES
+Photo user ID: 3, Current user ID: 3
+Updating title...
+Update result: SUCCESS
+Rows affected: 1
+Title updated successfully
+Request completed
+
+2025-10-14 21:00:54 - Update title request
+User ID: 3
+Photo ID: 65, Title: Арбузие
+Title column exists: YES
+Photo found: YES
+Photo user ID: 3, Current user ID: 3
+Updating title...
+Update result: SUCCESS
+Rows affected: 1
+Title updated successfully
+Request completed
+
+2025-10-14 21:07:35 - Update title request
+User ID: 1
+Photo ID: 71, Title: В рот давал 100%
+Title column exists: YES
+Photo found: YES
+Photo user ID: 1, Current user ID: 1
+Updating title...
+Update result: SUCCESS
+Rows affected: 1
+Title updated successfully
+Request completed
+
+2025-10-15 10:03:57 - Update title request
+User ID: 4
+Photo ID: 64, Title: Vместе 🤟
+Title column exists: YES
+Photo found: YES
+Photo user ID: 4, Current user ID: 4
+Updating title...
+Update result: SUCCESS
+Rows affected: 0
+No rows affected
+Request completed
+
+2025-10-15 17:18:18 - Update title request
+User ID: 32
+Photo ID: 112, Title: <div class="form-group" style="max-width:
+Title column exists: YES
+Photo found: YES
+Photo user ID: 32, Current user ID: 32
+Updating title...
+Update result: SUCCESS
+Rows affected: 1
+Title updated successfully
+Request completed
+

@@ -1,0 +1,1815 @@
+2025-10-12 18:26:36 - Upload request started
+User not authorized
+2025-10-12 18:27:11 - Upload request started
+User ID: 1001
+Files count: 1
+Processing file: IMG_20251010_195031_231-fotor-enhance-2025101019524-pica.png
+Moving file to: uploads/68ebd6df16f21_1001.png
+File moved successfully
+File saved to database: 68ebd6df16f21_1001.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:07:12 - Upload request started
+User ID: 1002
+Files count: 1
+Processing file: IMG_20251010_195031_231-fotor-enhance-2025101019524-pica.png
+Moving file to: uploads/68ebe0405c4be_1002.png
+File moved successfully
+File saved to database: 68ebe0405c4be_1002.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:18:59 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006158.jpg
+Moving file to: uploads/68ebe30362ddd_1003.jpg
+File moved successfully
+File saved to database: 68ebe30362ddd_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:28:24 - Upload request started
+User ID: 1003
+Files count: 3
+Processing file: 1000006026.jpg
+Moving file to: uploads/68ebe53862d11_1003.jpg
+File moved successfully
+File saved to database: 68ebe53862d11_1003.jpg
+Processing file: 1000005733.jpg
+Moving file to: uploads/68ebe53864059_1003.jpg
+File moved successfully
+File saved to database: 68ebe53864059_1003.jpg
+Processing file: 1000005706.jpg
+Moving file to: uploads/68ebe53865b7f_1003.jpg
+File moved successfully
+File saved to database: 68ebe53865b7f_1003.jpg
+Upload completed. Success: 3, Errors: 0
+
+2025-10-12 19:52:05 - Upload request started
+User ID: 1004
+Files count: 1
+Processing file: 1000000700.jpg
+Moving file to: uploads/68ebeac544113_1004.jpg
+File moved successfully
+File saved to database: 68ebeac544113_1004.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:52:30 - Upload request started
+User ID: 1004
+Files count: 1
+Processing file: 1000000699.jpg
+Moving file to: uploads/68ebeade67275_1004.jpg
+File moved successfully
+File saved to database: 68ebeade67275_1004.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:52:57 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeaf9355c9_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf9355c9_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeaf936736_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf936736_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeaf9385f6_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf9385f6_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeaf9394c9_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf9394c9_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeaf93a248_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93a248_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeaf93b0b8_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93b0b8_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeaf93bf6c_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93bf6c_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeaf93cfb8_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93cfb8_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeaf93dea5_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93dea5_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeaf93edf9_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93edf9_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeaf93fd39_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf93fd39_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeaf940d94_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf940d94_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeaf941c10_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf941c10_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeaf942bb8_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf942bb8_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeaf943ae2_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf943ae2_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeaf944b44_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf944b44_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeaf945a7e_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf945a7e_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeaf9468e4_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf9468e4_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeaf947891_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf947891_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeaf948a0a_1004.jpg
+File moved successfully
+File saved to database: 68ebeaf948a0a_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:52:58 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeafae73c8_1004.jpg
+File moved successfully
+File saved to database: 68ebeafae73c8_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeafae8657_1004.jpg
+File moved successfully
+File saved to database: 68ebeafae8657_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeafae94eb_1004.jpg
+File moved successfully
+File saved to database: 68ebeafae94eb_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeafaea342_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaea342_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeafaeb35a_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaeb35a_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeafaec2e8_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaec2e8_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeafaed435_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaed435_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeafaee3a8_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaee3a8_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeafaef335_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaef335_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeafaf0332_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaf0332_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeafaf128d_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaf128d_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeafaf2364_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaf2364_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeafaf33cb_1004.jpg
+File moved successfully
+File saved to database: 68ebeafaf33cb_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeafb00120_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb00120_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeafb00f7a_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb00f7a_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeafb01f99_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb01f99_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeafb03077_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb03077_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeafb04007_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb04007_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeafb04e5d_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb04e5d_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeafb05d17_1004.jpg
+File moved successfully
+File saved to database: 68ebeafb05d17_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:53:01 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeafdcc185_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdcc185_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeafdcd420_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdcd420_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeafdce4c7_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdce4c7_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeafdcf57c_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdcf57c_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeafdd0501_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd0501_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeafdd1471_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd1471_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeafdd238a_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd238a_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeafdd332d_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd332d_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeafdd4233_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd4233_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeafdd51c9_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd51c9_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeafdd622a_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd622a_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeafdd715f_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd715f_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeafdd8059_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd8059_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeafdd8fec_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdd8fec_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeafdda028_1004.jpg
+File moved successfully
+File saved to database: 68ebeafdda028_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeafddb096_1004.jpg
+File moved successfully
+File saved to database: 68ebeafddb096_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeafddc04f_1004.jpg
+File moved successfully
+File saved to database: 68ebeafddc04f_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeafddce91_1004.jpg
+File moved successfully
+File saved to database: 68ebeafddce91_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeafddde3b_1004.jpg
+File moved successfully
+File saved to database: 68ebeafddde3b_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeafddefe2_1004.jpg
+File moved successfully
+File saved to database: 68ebeafddefe2_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:53:26 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeb168d44a_1004.jpg
+File moved successfully
+File saved to database: 68ebeb168d44a_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeb168e814_1004.jpg
+File moved successfully
+File saved to database: 68ebeb168e814_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeb168f9e7_1004.jpg
+File moved successfully
+File saved to database: 68ebeb168f9e7_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeb1690b90_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1690b90_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeb1691c1e_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1691c1e_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeb1692c14_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1692c14_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeb1693d39_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1693d39_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeb1694f34_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1694f34_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeb169620a_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169620a_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeb1697469_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1697469_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeb16991f5_1004.jpg
+File moved successfully
+File saved to database: 68ebeb16991f5_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeb169a195_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169a195_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeb169b205_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169b205_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeb169c2b5_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169c2b5_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeb169d326_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169d326_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeb169e360_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169e360_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeb169f531_1004.jpg
+File moved successfully
+File saved to database: 68ebeb169f531_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeb16a06a2_1004.jpg
+File moved successfully
+File saved to database: 68ebeb16a06a2_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeb16a1695_1004.jpg
+File moved successfully
+File saved to database: 68ebeb16a1695_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeb16a2682_1004.jpg
+File moved successfully
+File saved to database: 68ebeb16a2682_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:53:33 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeb1d24956_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d24956_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeb1d25ea8_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d25ea8_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeb1d26f9b_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d26f9b_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeb1d28095_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d28095_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeb1d296a1_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d296a1_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeb1d2ba6a_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d2ba6a_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeb1d2cb6d_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d2cb6d_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeb1d2dbde_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d2dbde_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeb1d2ecfc_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d2ecfc_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeb1d2fd21_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d2fd21_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeb1d30e75_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d30e75_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeb1d31e91_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d31e91_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeb1d32fb4_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d32fb4_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeb1d34132_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d34132_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeb1d35177_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d35177_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeb1d36157_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d36157_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeb1d370cd_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d370cd_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeb1d38456_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d38456_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeb1d39312_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d39312_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeb1d3a18a_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1d3a18a_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:53:33 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebeb1dc0731_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc0731_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebeb1dc18fb_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc18fb_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebeb1dc2855_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc2855_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebeb1dc38a5_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc38a5_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebeb1dc4b56_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc4b56_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebeb1dc5c7c_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc5c7c_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebeb1dc6da2_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc6da2_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebeb1dc7dc7_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc7dc7_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebeb1dc8ce6_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc8ce6_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebeb1dc9c1d_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dc9c1d_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebeb1dcab99_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dcab99_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebeb1dcbb07_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dcbb07_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebeb1dccbf3_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dccbf3_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebeb1dcdba2_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dcdba2_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebeb1dcea9e_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dcea9e_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebeb1dcfb15_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dcfb15_1004.jpg
+Processing file: 1000000682.jpg
+Moving file to: uploads/68ebeb1dd0d82_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dd0d82_1004.jpg
+Processing file: 1000000680.jpg
+Moving file to: uploads/68ebeb1dd1cdb_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dd1cdb_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebeb1dd2c1c_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dd2c1c_1004.jpg
+Processing file: 1000000678.jpg
+Moving file to: uploads/68ebeb1dd3a02_1004.jpg
+File moved successfully
+File saved to database: 68ebeb1dd3a02_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:56:31 - Upload request started
+User ID: 1004
+Files count: 1
+Processing file: 1000000701.jpg
+Moving file to: uploads/68ebebcf8e03d_1004.jpg
+File moved successfully
+File saved to database: 68ebebcf8e03d_1004.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 19:57:21 - Upload request started
+User ID: 1004
+Files count: 20
+Processing file: 1000000701.jpg
+Moving file to: uploads/68ebec0131583_1004.jpg
+File moved successfully
+File saved to database: 68ebec0131583_1004.jpg
+Processing file: 1000000700.jpg
+Moving file to: uploads/68ebec0132702_1004.jpg
+File moved successfully
+File saved to database: 68ebec0132702_1004.jpg
+Processing file: 1000000699.jpg
+Moving file to: uploads/68ebec01336cf_1004.jpg
+File moved successfully
+File saved to database: 68ebec01336cf_1004.jpg
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ebec0135547_1004.jpg
+File moved successfully
+File saved to database: 68ebec0135547_1004.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ebec01365a7_1004.jpg
+File moved successfully
+File saved to database: 68ebec01365a7_1004.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ebec013757d_1004.jpg
+File moved successfully
+File saved to database: 68ebec013757d_1004.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ebec0138638_1004.jpg
+File moved successfully
+File saved to database: 68ebec0138638_1004.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ebec013961c_1004.jpg
+File moved successfully
+File saved to database: 68ebec013961c_1004.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ebec013a814_1004.jpg
+File moved successfully
+File saved to database: 68ebec013a814_1004.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ebec013b8c3_1004.jpg
+File moved successfully
+File saved to database: 68ebec013b8c3_1004.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ebec013c7c3_1004.jpg
+File moved successfully
+File saved to database: 68ebec013c7c3_1004.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ebec013d7a5_1004.jpg
+File moved successfully
+File saved to database: 68ebec013d7a5_1004.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ebec013e910_1004.jpg
+File moved successfully
+File saved to database: 68ebec013e910_1004.jpg
+Processing file: 1000000687.jpg
+Moving file to: uploads/68ebec013fa71_1004.jpg
+File moved successfully
+File saved to database: 68ebec013fa71_1004.jpg
+Processing file: 1000000688.jpg
+Moving file to: uploads/68ebec01409dc_1004.jpg
+File moved successfully
+File saved to database: 68ebec01409dc_1004.jpg
+Processing file: 1000000686.jpg
+Moving file to: uploads/68ebec0141890_1004.jpg
+File moved successfully
+File saved to database: 68ebec0141890_1004.jpg
+Processing file: 1000000685.jpg
+Moving file to: uploads/68ebec0142780_1004.jpg
+File moved successfully
+File saved to database: 68ebec0142780_1004.jpg
+Processing file: 1000000684.jpg
+Moving file to: uploads/68ebec01437f7_1004.jpg
+File moved successfully
+File saved to database: 68ebec01437f7_1004.jpg
+Processing file: 1000000683.jpg
+Moving file to: uploads/68ebec014480f_1004.jpg
+File moved successfully
+File saved to database: 68ebec014480f_1004.jpg
+Processing file: 1000000681.jpg
+Moving file to: uploads/68ebec0145830_1004.jpg
+File moved successfully
+File saved to database: 68ebec0145830_1004.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-12 19:58:29 - Upload request started
+User ID: 1003
+Files count: 3
+Processing file: 1000006026.jpg
+Moving file to: uploads/68ebec45dd302_1003.jpg
+File moved successfully
+File saved to database: 68ebec45dd302_1003.jpg
+Processing file: 1000005733.jpg
+Moving file to: uploads/68ebec45de8b9_1003.jpg
+File moved successfully
+File saved to database: 68ebec45de8b9_1003.jpg
+Processing file: 1000005706.jpg
+Moving file to: uploads/68ebec45df97b_1003.jpg
+File moved successfully
+File saved to database: 68ebec45df97b_1003.jpg
+Upload completed. Success: 3, Errors: 0
+
+2025-10-12 20:01:40 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000005301.jpg
+Moving file to: uploads/68ebed0435709_1003.jpg
+File moved successfully
+File saved to database: 68ebed0435709_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:02:17 - Upload request started
+User ID: 1005
+Files count: 1
+Processing file: 1000015711.jpg
+Moving file to: uploads/68ebed29957ae_1005.jpg
+File moved successfully
+File saved to database: 68ebed29957ae_1005.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:02:26 - Upload request started
+User ID: 1004
+Files count: 1
+Processing file: 1000000702.jpg
+Moving file to: uploads/68ebed32c358d_1004.jpg
+File moved successfully
+File saved to database: 68ebed32c358d_1004.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:03:30 - Upload request started
+User ID: 1003
+Files count: 2
+Processing file: 1000005270.jpg
+Moving file to: uploads/68ebed7245634_1003.jpg
+File moved successfully
+File saved to database: 68ebed7245634_1003.jpg
+Processing file: 1000004840.jpg
+Moving file to: uploads/68ebed7246bd2_1003.jpg
+File moved successfully
+File saved to database: 68ebed7246bd2_1003.jpg
+Upload completed. Success: 2, Errors: 0
+
+2025-10-12 20:04:34 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000004515.jpg
+Moving file to: uploads/68ebedb2a98ca_1003.jpg
+File moved successfully
+File saved to database: 68ebedb2a98ca_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:05:55 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006186.jpg
+Moving file to: uploads/68ebee03600de_1003.jpg
+File moved successfully
+File saved to database: 68ebee03600de_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:06:13 - Upload request started
+User ID: 1000
+Files count: 1
+Processing file: IMG_20251010_195031_231-fotor-enhance-2025101019524-pica.png
+Moving file to: uploads/68ebee15a4157_1000.png
+File moved successfully
+File saved to database: 68ebee15a4157_1000.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:07:16 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006187.jpg
+Moving file to: uploads/68ebee54f063e_1003.jpg
+File moved successfully
+File saved to database: 68ebee54f063e_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:07:17 - Upload request started
+User ID: 1004
+Files count: 1
+Processing file: 1000000703.jpg
+Moving file to: uploads/68ebee552ae5d_1004.jpg
+File moved successfully
+File saved to database: 68ebee552ae5d_1004.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:08:27 - Upload request started
+User ID: 1004
+Files count: 9
+Processing file: 1000000325.jpg
+Moving file to: uploads/68ebee9badabf_1004.jpg
+File moved successfully
+File saved to database: 68ebee9badabf_1004.jpg
+Processing file: 1000000326.jpg
+Moving file to: uploads/68ebee9baee20_1004.jpg
+File moved successfully
+File saved to database: 68ebee9baee20_1004.jpg
+Processing file: 1000000604.jpg
+Moving file to: uploads/68ebee9bb0969_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb0969_1004.jpg
+Processing file: 1000000607.jpg
+Moving file to: uploads/68ebee9bb1a7a_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb1a7a_1004.jpg
+Processing file: 1000000608.jpg
+Moving file to: uploads/68ebee9bb2caa_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb2caa_1004.jpg
+Processing file: 1000000605.jpg
+Moving file to: uploads/68ebee9bb3d58_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb3d58_1004.jpg
+Processing file: 1000000606.jpg
+Moving file to: uploads/68ebee9bb4e7d_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb4e7d_1004.jpg
+Processing file: 1000000627.jpg
+Moving file to: uploads/68ebee9bb5c90_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb5c90_1004.jpg
+Processing file: 1000000628.jpg
+Moving file to: uploads/68ebee9bb6b37_1004.jpg
+File moved successfully
+File saved to database: 68ebee9bb6b37_1004.jpg
+Upload completed. Success: 9, Errors: 0
+
+2025-10-12 20:08:32 - Upload request started
+User ID: 1006
+Files count: 1
+Processing file: 1000016169.jpg
+Moving file to: uploads/68ebeea062242_1006.jpg
+File moved successfully
+File saved to database: 68ebeea062242_1006.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:08:33 - Upload request started
+User ID: 1004
+Files count: 9
+Processing file: 1000000325.jpg
+Moving file to: uploads/68ebeea11d642_1004.jpg
+File moved successfully
+File saved to database: 68ebeea11d642_1004.jpg
+Processing file: 1000000326.jpg
+Moving file to: uploads/68ebeea11eca2_1004.jpg
+File moved successfully
+File saved to database: 68ebeea11eca2_1004.jpg
+Processing file: 1000000604.jpg
+Moving file to: uploads/68ebeea11ff48_1004.jpg
+File moved successfully
+File saved to database: 68ebeea11ff48_1004.jpg
+Processing file: 1000000607.jpg
+Moving file to: uploads/68ebeea1210cb_1004.jpg
+File moved successfully
+File saved to database: 68ebeea1210cb_1004.jpg
+Processing file: 1000000608.jpg
+Moving file to: uploads/68ebeea12231a_1004.jpg
+File moved successfully
+File saved to database: 68ebeea12231a_1004.jpg
+Processing file: 1000000605.jpg
+Moving file to: uploads/68ebeea1235fe_1004.jpg
+File moved successfully
+File saved to database: 68ebeea1235fe_1004.jpg
+Processing file: 1000000606.jpg
+Moving file to: uploads/68ebeea124909_1004.jpg
+File moved successfully
+File saved to database: 68ebeea124909_1004.jpg
+Processing file: 1000000627.jpg
+Moving file to: uploads/68ebeea12596c_1004.jpg
+File moved successfully
+File saved to database: 68ebeea12596c_1004.jpg
+Processing file: 1000000628.jpg
+Moving file to: uploads/68ebeea126b50_1004.jpg
+File moved successfully
+File saved to database: 68ebeea126b50_1004.jpg
+Upload completed. Success: 9, Errors: 0
+
+2025-10-12 20:11:08 - Upload request started
+User ID: 1004
+Files count: 7
+Processing file: 1000000704.jpg
+Moving file to: uploads/68ebef3cef12b_1004.jpg
+File moved successfully
+File saved to database: 68ebef3cef12b_1004.jpg
+Processing file: 1000000705.jpg
+Moving file to: uploads/68ebef3cf046d_1004.jpg
+File moved successfully
+File saved to database: 68ebef3cf046d_1004.jpg
+Processing file: 1000000707.jpg
+Moving file to: uploads/68ebef3cf13aa_1004.jpg
+File moved successfully
+File saved to database: 68ebef3cf13aa_1004.jpg
+Processing file: 1000000706.jpg
+Moving file to: uploads/68ebef3cf2307_1004.jpg
+File moved successfully
+File saved to database: 68ebef3cf2307_1004.jpg
+Processing file: 1000000709.jpg
+Moving file to: uploads/68ebef3d014df_1004.jpg
+File moved successfully
+File saved to database: 68ebef3d014df_1004.jpg
+Processing file: 1000000710.jpg
+Moving file to: uploads/68ebef3d02381_1004.jpg
+File moved successfully
+File saved to database: 68ebef3d02381_1004.jpg
+Processing file: 1000000708.jpg
+Moving file to: uploads/68ebef3d03eb3_1004.jpg
+File moved successfully
+File saved to database: 68ebef3d03eb3_1004.jpg
+Upload completed. Success: 7, Errors: 0
+
+2025-10-12 20:13:35 - Upload request started
+User ID: 1004
+Files count: 4
+Processing file: 1000000711.jpg
+Moving file to: uploads/68ebefcfd4d12_1004.jpg
+File moved successfully
+File saved to database: 68ebefcfd4d12_1004.jpg
+Processing file: 1000000712.jpg
+Moving file to: uploads/68ebefcfd633a_1004.jpg
+File moved successfully
+File saved to database: 68ebefcfd633a_1004.jpg
+Processing file: 1000000713.jpg
+Moving file to: uploads/68ebefcfd7841_1004.jpg
+File moved successfully
+File saved to database: 68ebefcfd7841_1004.jpg
+Processing file: 1000000714.jpg
+Moving file to: uploads/68ebefcfd87ef_1004.jpg
+File moved successfully
+File saved to database: 68ebefcfd87ef_1004.jpg
+Upload completed. Success: 4, Errors: 0
+
+2025-10-12 20:26:29 - Upload request started
+User ID: 1006
+Files count: 1
+Processing file: 1000012610.jpg
+Moving file to: uploads/68ebf2d5065fa_1006.jpg
+File moved successfully
+File saved to database: 68ebf2d5065fa_1006.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:27:45 - Upload request started
+User ID: 1010
+Files count: 1
+Processing file: Рисунок1.png
+Moving file to: uploads/68ebf321318be_1010.png
+File moved successfully
+File saved to database: 68ebf321318be_1010.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:29:08 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000003695.jpg
+Файл слишком большой: 1000003695.jpg (12298076 bytes)
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:29:21 - Upload request started
+User ID: 1003
+Files count: 2
+Processing file: 1000006189.jpg
+Moving file to: uploads/68ebf38136e30_1003.jpg
+File moved successfully
+File saved to database: 68ebf38136e30_1003.jpg
+Processing file: 1000006188.jpg
+Moving file to: uploads/68ebf38138705_1003.jpg
+File moved successfully
+File saved to database: 68ebf38138705_1003.jpg
+Upload completed. Success: 2, Errors: 0
+
+2025-10-12 20:31:02 - Upload request started
+User ID: 1006
+Files count: 1
+Processing file: 1000016171.jpg
+Moving file to: uploads/68ebf3e643ee5_1006.jpg
+File moved successfully
+File saved to database: 68ebf3e643ee5_1006.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:32:15 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000001460.jpg
+Файл слишком большой: 1000001460.jpg (21386251 bytes)
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:32:19 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006190.jpg
+Moving file to: uploads/68ebf43381bff_1003.jpg
+File moved successfully
+File saved to database: 68ebf43381bff_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:32:49 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000001460.jpg
+Файл слишком большой: 1000001460.jpg (21386251 bytes)
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:32:50 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006190.jpg
+Moving file to: uploads/68ebf45253126_1003.jpg
+File moved successfully
+File saved to database: 68ebf45253126_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:32:55 - Upload request started
+User ID: 1006
+Files count: 1
+Processing file: 1000012401.jpg
+Ошибка загрузки файла 1000012401.jpg: код 3
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:34:13 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000003958.jpg
+Moving file to: uploads/68ebf4a56ac44_1008.jpg
+File moved successfully
+File saved to database: 68ebf4a56ac44_1008.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:34:15 - Upload request started
+User ID: 1006
+Files count: 1
+Processing file: 1000011995.jpg
+Moving file to: uploads/68ebf4a7bafce_1006.jpg
+File moved successfully
+File saved to database: 68ebf4a7bafce_1006.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:34:31 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006191.jpg
+Moving file to: uploads/68ebf4b756b5f_1003.jpg
+File moved successfully
+File saved to database: 68ebf4b756b5f_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:35:02 - Upload request started
+User ID: 1011
+Files count: 1
+Processing file: 1000038870.jpg
+Moving file to: uploads/68ebf4d6ded2d_1011.jpg
+File moved successfully
+File saved to database: 68ebf4d6ded2d_1011.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:36:01 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000003959.jpg
+Moving file to: uploads/68ebf511d9f20_1008.jpg
+File moved successfully
+File saved to database: 68ebf511d9f20_1008.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:36:41 - Upload request started
+User ID: 1003
+Files count: 1
+Processing file: 1000006193.jpg
+Moving file to: uploads/68ebf539afac7_1003.jpg
+File moved successfully
+File saved to database: 68ebf539afac7_1003.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 20:36:42 - Upload request started
+User ID: 1004
+Files count: 9
+Processing file: 1000000715.jpg
+Moving file to: uploads/68ebf53a512f0_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a512f0_1004.jpg
+Processing file: 1000000717.jpg
+Moving file to: uploads/68ebf53a521b9_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a521b9_1004.jpg
+Processing file: 1000000716.jpg
+Moving file to: uploads/68ebf53a53092_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a53092_1004.jpg
+Processing file: 1000000720.jpg
+Moving file to: uploads/68ebf53a54187_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a54187_1004.jpg
+Processing file: 1000000719.jpg
+Moving file to: uploads/68ebf53a55062_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a55062_1004.jpg
+Processing file: 1000000718.jpg
+Moving file to: uploads/68ebf53a55e21_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a55e21_1004.jpg
+Processing file: 1000000721.jpg
+Moving file to: uploads/68ebf53a56c42_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a56c42_1004.jpg
+Processing file: 1000000723.jpg
+Moving file to: uploads/68ebf53a58b17_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a58b17_1004.jpg
+Processing file: 1000000722.jpg
+Moving file to: uploads/68ebf53a59b88_1004.jpg
+File moved successfully
+File saved to database: 68ebf53a59b88_1004.jpg
+Upload completed. Success: 9, Errors: 0
+
+2025-10-12 20:38:13 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000003960.jpg
+Файл слишком большой: 1000003960.jpg (6368249 bytes)
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:38:58 - Upload request started
+User ID: 1008
+Files count: 1
+Processing file: 1000003961.jpg
+Файл слишком большой: 1000003961.jpg (5398695 bytes)
+Upload completed. Success: 0, Errors: 1
+
+2025-10-12 20:42:13 - Upload request started
+User ID: 1000
+Files count: 1
+Processing file: 123111233.jpg
+Moving file to: uploads/68ebf685ee8c7_1000.jpg
+File moved successfully
+File saved to database: 68ebf685ee8c7_1000.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 21:00:01 - Upload request started
+User ID: 1011
+Files count: 1
+Processing file: 1000044290.jpg
+Moving file to: uploads/68ebfab10db19_1011.jpg
+File moved successfully
+File saved to database: 68ebfab10db19_1011.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-12 21:01:19 - Upload request started
+User ID: 1003
+Files count: 3
+Processing file: 1000006196.jpg
+Moving file to: uploads/68ebfafff3f3b_1003.jpg
+File moved successfully
+File saved to database: 68ebfafff3f3b_1003.jpg
+Processing file: 1000006195.jpg
+Moving file to: uploads/68ebfb000136d_1003.jpg
+File moved successfully
+File saved to database: 68ebfb000136d_1003.jpg
+Processing file: 1000006194.jpg
+Moving file to: uploads/68ebfb0003211_1003.jpg
+File moved successfully
+File saved to database: 68ebfb0003211_1003.jpg
+Upload completed. Success: 3, Errors: 0
+
+2025-10-12 21:01:36 - Upload request started
+User ID: 1003
+Files count: 2
+Processing file: 1000006198.jpg
+Moving file to: uploads/68ebfb1062206_1003.jpg
+File moved successfully
+File saved to database: 68ebfb1062206_1003.jpg
+Processing file: 1000006197.jpg
+Moving file to: uploads/68ebfb1063451_1003.jpg
+File moved successfully
+File saved to database: 68ebfb1063451_1003.jpg
+Upload completed. Success: 2, Errors: 0
+
+2025-10-13 12:21:09 - Upload request started
+User ID: 3
+Files count: 20
+Processing file: 1000000723.jpg
+Moving file to: uploads/68ecd2957ae21_3.jpg
+File moved successfully
+File saved to database: 68ecd2957ae21_3.jpg
+Processing file: 1000000717.jpg
+Moving file to: uploads/68ecd2957c1b2_3.jpg
+File moved successfully
+File saved to database: 68ecd2957c1b2_3.jpg
+Processing file: 1000000711.jpg
+Moving file to: uploads/68ecd2957d018_3.jpg
+File moved successfully
+File saved to database: 68ecd2957d018_3.jpg
+Processing file: 1000000710.jpg
+Moving file to: uploads/68ecd2957edaa_3.jpg
+File moved successfully
+File saved to database: 68ecd2957edaa_3.jpg
+Processing file: 1000000706.jpg
+Moving file to: uploads/68ecd2957fc9c_3.jpg
+File moved successfully
+File saved to database: 68ecd2957fc9c_3.jpg
+Processing file: 1000000703.jpg
+Moving file to: uploads/68ecd29580a6c_3.jpg
+File moved successfully
+File saved to database: 68ecd29580a6c_3.jpg
+Processing file: 1000000702.jpg
+Moving file to: uploads/68ecd29581987_3.jpg
+File moved successfully
+File saved to database: 68ecd29581987_3.jpg
+Processing file: 1000000701.jpg
+Moving file to: uploads/68ecd29582784_3.jpg
+File moved successfully
+File saved to database: 68ecd29582784_3.jpg
+Processing file: 1000000700.jpg
+Moving file to: uploads/68ecd29583736_3.jpg
+File moved successfully
+File saved to database: 68ecd29583736_3.jpg
+Processing file: 1000000699.jpg
+Moving file to: uploads/68ecd2958457f_3.jpg
+File moved successfully
+File saved to database: 68ecd2958457f_3.jpg
+Processing file: 1000000698.jpg
+Moving file to: uploads/68ecd2958545e_3.jpg
+File moved successfully
+File saved to database: 68ecd2958545e_3.jpg
+Processing file: 1000000697.jpg
+Moving file to: uploads/68ecd29586702_3.jpg
+File moved successfully
+File saved to database: 68ecd29586702_3.jpg
+Processing file: 1000000696.jpg
+Moving file to: uploads/68ecd295874f2_3.jpg
+File moved successfully
+File saved to database: 68ecd295874f2_3.jpg
+Processing file: 1000000695.jpg
+Moving file to: uploads/68ecd29588519_3.jpg
+File moved successfully
+File saved to database: 68ecd29588519_3.jpg
+Processing file: 1000000694.jpg
+Moving file to: uploads/68ecd2958948c_3.jpg
+File moved successfully
+File saved to database: 68ecd2958948c_3.jpg
+Processing file: 1000000693.jpg
+Moving file to: uploads/68ecd2958a468_3.jpg
+File moved successfully
+File saved to database: 68ecd2958a468_3.jpg
+Processing file: 1000000692.jpg
+Moving file to: uploads/68ecd2958b42d_3.jpg
+File moved successfully
+File saved to database: 68ecd2958b42d_3.jpg
+Processing file: 1000000691.jpg
+Moving file to: uploads/68ecd2958c808_3.jpg
+File moved successfully
+File saved to database: 68ecd2958c808_3.jpg
+Processing file: 1000000690.jpg
+Moving file to: uploads/68ecd2958d704_3.jpg
+File moved successfully
+File saved to database: 68ecd2958d704_3.jpg
+Processing file: 1000000689.jpg
+Moving file to: uploads/68ecd2958e663_3.jpg
+File moved successfully
+File saved to database: 68ecd2958e663_3.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-13 12:24:58 - Upload request started
+User ID: 3
+Files count: 20
+Processing file: 1000000658.jpg
+Moving file to: uploads/68ecd37a012c2_3.jpg
+File moved successfully
+File saved to database: 68ecd37a012c2_3.jpg
+Processing file: 1000000659.jpg
+Moving file to: uploads/68ecd37a02577_3.jpg
+File moved successfully
+File saved to database: 68ecd37a02577_3.jpg
+Processing file: 1000000661.jpg
+Moving file to: uploads/68ecd37a03480_3.jpg
+File moved successfully
+File saved to database: 68ecd37a03480_3.jpg
+Processing file: 1000000660.jpg
+Moving file to: uploads/68ecd37a04442_3.jpg
+File moved successfully
+File saved to database: 68ecd37a04442_3.jpg
+Processing file: 1000000662.jpg
+Moving file to: uploads/68ecd37a0536c_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0536c_3.jpg
+Processing file: 1000000663.jpg
+Moving file to: uploads/68ecd37a07009_3.jpg
+File moved successfully
+File saved to database: 68ecd37a07009_3.jpg
+Processing file: 1000000664.jpg
+Moving file to: uploads/68ecd37a07db9_3.jpg
+File moved successfully
+File saved to database: 68ecd37a07db9_3.jpg
+Processing file: 1000000665.jpg
+Moving file to: uploads/68ecd37a08b47_3.jpg
+File moved successfully
+File saved to database: 68ecd37a08b47_3.jpg
+Processing file: 1000000668.jpg
+Moving file to: uploads/68ecd37a09a0c_3.jpg
+File moved successfully
+File saved to database: 68ecd37a09a0c_3.jpg
+Processing file: 1000000667.jpg
+Moving file to: uploads/68ecd37a0ab8e_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0ab8e_3.jpg
+Processing file: 1000000666.jpg
+Moving file to: uploads/68ecd37a0b979_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0b979_3.jpg
+Processing file: 1000000669.jpg
+Moving file to: uploads/68ecd37a0c7b2_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0c7b2_3.jpg
+Processing file: 1000000670.jpg
+Moving file to: uploads/68ecd37a0d4e8_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0d4e8_3.jpg
+Processing file: 1000000671.jpg
+Moving file to: uploads/68ecd37a0e3e7_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0e3e7_3.jpg
+Processing file: 1000000672.jpg
+Moving file to: uploads/68ecd37a0f29f_3.jpg
+File moved successfully
+File saved to database: 68ecd37a0f29f_3.jpg
+Processing file: 1000000674.jpg
+Moving file to: uploads/68ecd37a1109a_3.jpg
+File moved successfully
+File saved to database: 68ecd37a1109a_3.jpg
+Processing file: 1000000673.jpg
+Moving file to: uploads/68ecd37a123a6_3.jpg
+File moved successfully
+File saved to database: 68ecd37a123a6_3.jpg
+Processing file: 1000000675.jpg
+Moving file to: uploads/68ecd37a13117_3.jpg
+File moved successfully
+File saved to database: 68ecd37a13117_3.jpg
+Processing file: 1000000676.jpg
+Moving file to: uploads/68ecd37a13fbe_3.jpg
+File moved successfully
+File saved to database: 68ecd37a13fbe_3.jpg
+Processing file: 1000000677.jpg
+Moving file to: uploads/68ecd37a14e7c_3.jpg
+File moved successfully
+File saved to database: 68ecd37a14e7c_3.jpg
+Upload completed. Success: 20, Errors: 0
+
+2025-10-13 12:27:51 - Upload request started
+User ID: 1
+Files count: 1
+Processing file: IMG_20251010_195031_231-fotor-enhance-2025101019524-pica.png
+Moving file to: uploads/68ecd4278ff92_1.png
+File moved successfully
+File saved to database: 68ecd4278ff92_1.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 12:35:54 - Upload request started
+User ID: 4
+Files count: 1
+Processing file: IMG_9814.jpeg
+Moving file to: uploads/68ecd60a716dd_4.jpeg
+File moved successfully
+File saved to database: 68ecd60a716dd_4.jpeg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 12:38:13 - Upload request started
+User ID: 3
+Files count: 1
+Processing file: 1000000721.jpg
+Moving file to: uploads/68ecd695db8e2_3.jpg
+File moved successfully
+File saved to database: 68ecd695db8e2_3.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 13:33:25 - Upload request started
+User ID: 5
+Files count: 1
+Processing file: IMG_20250925_234844_026.jpg
+Moving file to: uploads/68ece3850fffe_5.jpg
+File moved successfully
+File saved to database: 68ece3850fffe_5.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 13:51:13 - Upload request started
+User ID: 5
+Files count: 2
+Processing file: IMG_20251013_165112_236.jpg
+Moving file to: uploads/68ece7b17f045_5.jpg
+File moved successfully
+File saved to database: 68ece7b17f045_5.jpg
+Processing file: IMG_20251013_165108_360.jpg
+Moving file to: uploads/68ece7b180516_5.jpg
+File moved successfully
+File saved to database: 68ece7b180516_5.jpg
+Upload completed. Success: 2, Errors: 0
+
+2025-10-13 13:55:06 - Upload request started
+User ID: 8
+Files count: 2
+Processing file: IMG_20251013_165458_274.jpg
+Moving file to: uploads/68ece89a94306_8.jpg
+File moved successfully
+File saved to database: 68ece89a94306_8.jpg
+Processing file: IMG_20251013_165440_074.jpg
+Moving file to: uploads/68ece89a9570b_8.jpg
+File moved successfully
+File saved to database: 68ece89a9570b_8.jpg
+Upload completed. Success: 2, Errors: 0
+
+2025-10-13 13:56:54 - Upload request started
+User ID: 3
+Files count: 1
+Processing file: 1000000628.jpg
+Moving file to: uploads/68ece906712b1_3.jpg
+File moved successfully
+File saved to database: 68ece906712b1_3.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:16:20 - Upload request started
+User ID: 10
+Files count: 1
+Processing file: IMG_9481.jpeg
+Moving file to: uploads/68eced9412ffd_10.jpeg
+File moved successfully
+File saved to database: 68eced9412ffd_10.jpeg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:16:38 - Upload request started
+User ID: 10
+Files count: 1
+Processing file: IMG_9480.png
+Moving file to: uploads/68eceda658dad_10.png
+File moved successfully
+File saved to database: 68eceda658dad_10.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:19:10 - Upload request started
+User ID: 10
+Files count: 1
+Processing file: IMG_9481.jpeg
+Moving file to: uploads/68ecee3e7df05_10.jpeg
+File moved successfully
+File saved to database: 68ecee3e7df05_10.jpeg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:54:18 - Upload request started
+User ID: 12
+Files count: 1
+Processing file: 1000015755.jpg
+Moving file to: uploads/68ecf67a5da38_12.jpg
+File moved successfully
+File saved to database: 68ecf67a5da38_12.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:55:29 - Upload request started
+User ID: 12
+Files count: 1
+Processing file: 1000015755.jpg
+Moving file to: uploads/68ecf6c1a9950_12.jpg
+File moved successfully
+File saved to database: 68ecf6c1a9950_12.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 14:59:41 - Upload request started
+User ID: 13
+Files count: 1
+Processing file: IMG_8643.jpeg
+Moving file to: uploads/68ecf7bd37801_13.jpeg
+File moved successfully
+File saved to database: 68ecf7bd37801_13.jpeg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 15:00:25 - Upload request started
+User ID: 12
+Files count: 1
+Processing file: 1000016013.jpg
+Moving file to: uploads/68ecf7e9853e6_12.jpg
+File moved successfully
+File saved to database: 68ecf7e9853e6_12.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 19:12:54 - Upload request started
+User ID: 17
+Files count: 1
+Processing file: 1000025444.jpg
+Moving file to: uploads/68ed331692209_17.jpg
+File moved successfully
+File saved to database: 68ed331692209_17.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 19:57:10 - Upload request started
+User ID: 4
+Files count: 1
+Processing file: image (9).png
+Moving file to: uploads/68ed3d767bfbc_4.png
+File moved successfully
+File saved to database: 68ed3d767bfbc_4.png
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 20:29:19 - Upload request started
+User ID: 4
+Files count: 1
+Processing file: 850cb604-33c8-483e-a38e-409462a63bf5-1_all_199.jpg
+Moving file to: uploads/68ed44ff8464e_4.jpg
+File moved successfully
+File saved to database: 68ed44ff8464e_4.jpg
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 21:21:28 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Ебал максима
+Processing file: 123111233.jpg
+Moving file to: uploads/68ed51381994d_1.jpg
+File moved successfully
+File saved to database with title: Ебал максима
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 21:55:26 - Upload request started
+User ID: 19
+Files count: 1
+Photo title: Без названия
+Processing file: photo_2025-05-10_05-12-00.jpg
+Moving file to: uploads/68ed592e4abab_19.jpg
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 1, Errors: 0
+
+2025-10-13 21:55:43 - Upload request started
+User ID: 19
+Files count: 1
+Photo title: Без названия
+Processing file: photo_2025-08-29_13-37-08.jpg
+Moving file to: uploads/68ed593f123b9_19.jpg
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 09:32:12 - Upload request started
+User ID: 20
+Files count: 1
+Photo title: Koks
+Processing file: IMG_9377.jpeg
+Moving file to: uploads/68edfc7c893d5_20.jpeg
+File moved successfully
+File saved to database with title: Koks
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 10:45:39 - Upload request started
+User ID: 4
+Files count: 1
+Photo title: Vместе 🤟
+Processing file: 1530.jpg
+Moving file to: uploads/68ee0db38cdd5_4.jpg
+File moved successfully
+File saved to database with title: Vместе 🤟
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 20:57:08 - Upload request started
+User ID: 3
+Files count: 1
+Photo title: Без названия
+Processing file: 1000000522.jpg
+Moving file to: uploads/68ee9d0477c65_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:06:29 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Хз
+Processing file: IMG_20251015_000638_183.jpg
+Moving file to: uploads/68ee9f350a1d6_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:06:36 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Хз
+Processing file: IMG_20251015_000621_852.jpg
+Moving file to: uploads/68ee9f3c374ab_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:06:42 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Хз
+Processing file: IMG_20251015_000613_486.jpg
+Moving file to: uploads/68ee9f42c7327_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:06:51 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Хз
+Processing file: IMG_20251015_000553_540.jpg
+Moving file to: uploads/68ee9f4bc3f39_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:06:59 - Upload request started
+User ID: 1
+Files count: 1
+Photo title: Х
+Processing file: IMG_20251015_000532_482.jpg
+Moving file to: uploads/68ee9f5317918_1.jpg
+File moved successfully
+File saved to database with title: Х
+Upload completed. Success: 1, Errors: 0
+
+2025-10-14 21:07:17 - Upload request started
+User ID: 1
+Files count: 12
+Photo title: Хз
+Processing file: IMG_20251015_000524_175.jpg
+Moving file to: uploads/68ee9f657b49f_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000505_785.jpg
+Moving file to: uploads/68ee9f657d376_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000451_581.jpg
+Moving file to: uploads/68ee9f657ea54_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000428_877.jpg
+Moving file to: uploads/68ee9f6580218_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000411_995.jpg
+Moving file to: uploads/68ee9f65818c0_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000357_671.jpg
+Moving file to: uploads/68ee9f6582fd5_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000335_282.jpg
+Moving file to: uploads/68ee9f6584d42_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000326_376.jpg
+Moving file to: uploads/68ee9f6586333_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000318_460.jpg
+Moving file to: uploads/68ee9f658795e_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000310_365.jpg
+Moving file to: uploads/68ee9f6589251_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000255_919.jpg
+Moving file to: uploads/68ee9f658a922_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_000234_907.jpg
+Moving file to: uploads/68ee9f658bc2e_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 12, Errors: 0
+
+2025-10-14 21:07:34 - Upload request started
+User ID: 3
+Files count: 4
+Photo title: Без названия
+Processing file: 1000000586.jpg
+Moving file to: uploads/68ee9f7698faf_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000627.jpg
+Moving file to: uploads/68ee9f769abc6_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000640.png
+Moving file to: uploads/68ee9f769c3ae_3.png
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000638.jpg
+Moving file to: uploads/68ee9f769e3b4_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 4, Errors: 0
+
+2025-10-14 21:10:45 - Upload request started
+User ID: 3
+Files count: 8
+Photo title: Без названия
+Processing file: 1000000733.jpg
+Moving file to: uploads/68eea035cd3fe_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000734.jpg
+Moving file to: uploads/68eea035ceefc_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000736.jpg
+Moving file to: uploads/68eea035d0629_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000735.jpg
+Moving file to: uploads/68eea035d1b65_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000738.jpg
+Moving file to: uploads/68eea035d32d0_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000739.jpg
+Moving file to: uploads/68eea035d5e0e_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000740.jpg
+Moving file to: uploads/68eea035d76a5_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Processing file: 1000000737.jpg
+Moving file to: uploads/68eea035d8c7a_3.jpg
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 8, Errors: 0
+
+2025-10-14 21:17:03 - Upload request started
+User ID: 1
+Files count: 14
+Photo title: Хз
+Processing file: IMG_20251015_001702_284.jpg
+Moving file to: uploads/68eea1af2efd3_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001653_591.jpg
+Moving file to: uploads/68eea1af307f3_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001645_009.jpg
+Moving file to: uploads/68eea1af31c82_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001631_862.jpg
+Moving file to: uploads/68eea1af33138_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001612_273.jpg
+Moving file to: uploads/68eea1af34725_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001545_716.jpg
+Moving file to: uploads/68eea1af35c59_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001527_211.jpg
+Moving file to: uploads/68eea1af37234_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001521_306.jpg
+Moving file to: uploads/68eea1af39406_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001513_759.jpg
+Moving file to: uploads/68eea1af3a9f8_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001506_399.jpg
+Moving file to: uploads/68eea1af3bf4f_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001454_463.jpg
+Moving file to: uploads/68eea1af3d2e9_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001440_337.jpg
+Moving file to: uploads/68eea1af3e77d_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001428_652.jpg
+Moving file to: uploads/68eea1af3fd86_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Processing file: IMG_20251015_001420_135.jpg
+Moving file to: uploads/68eea1af4148e_1.jpg
+File moved successfully
+File saved to database with title: Хз
+Upload completed. Success: 14, Errors: 0
+
+2025-10-15 09:18:59 - Upload request started
+User ID: 25
+Files count: 1
+Photo title: Это я
+Processing file: 1000055797.jpg
+Moving file to: uploads/68ef4ae3771b6_25.jpg
+File moved successfully
+File saved to database with title: Это я
+Upload completed. Success: 1, Errors: 0
+
+2025-10-15 17:05:47 - Upload request started
+User ID: 4
+Files count: 1
+Photo title: аркабук если че россиянин но никак не русский
+Processing file: photo_2025-09-21_23-17-40.jpg
+Moving file to: uploads/68efb84b9d1e3_4.jpg
+File moved successfully
+File saved to database with title: аркабук если че россиянин но никак не русский
+Upload completed. Success: 1, Errors: 0
+
+2025-10-15 17:07:11 - Upload request started
+User ID: 30
+Files count: 1
+Photo title: Жоскэй тып
+Processing file: 1000000883.jpg
+Moving file to: uploads/68efb89f9af54_30.jpg
+File moved successfully
+File saved to database with title: Жоскэй тып
+Upload completed. Success: 1, Errors: 0
+
+2025-10-15 17:17:48 - Upload request started
+User ID: 32
+Files count: 1
+Photo title: Без названия
+Processing file: 32.png
+Moving file to: uploads/68efbb1c6d24c_32.png
+File moved successfully
+File saved to database with title: Без названия
+Upload completed. Success: 1, Errors: 0
+

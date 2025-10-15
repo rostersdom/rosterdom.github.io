@@ -1,0 +1,13 @@
+# ngrok.yml
+version: "2"
+
+tunnels:
+  roster-app:
+    proto: http
+    addr: 80
+    
+  # Дополнительный туннель для HTTPS
+  roster-app-secure:
+    proto: http
+    addr: 80
+    bind_tls: true

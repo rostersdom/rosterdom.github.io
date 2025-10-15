@@ -1,0 +1,1024 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roster - Оценивай фотографии</title>
+    <style>
+        /* Все ваши стили остаются без изменений */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        
+        :root {
+            --primary: #ff4b7d;
+            --secondary: #6a5af9;
+            --dark: #333344;
+            --light: #f8f9fa;
+            --gray: #e0e0e0;
+        }
+        
+        body {
+            background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+            color: var(--dark);
+            line-height: 1.6;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+            flex: 1;
+        }
+        
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 20px 0;
+            margin-bottom: 30px;
+        }
+        
+        .logo {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: var(--primary);
+        }
+        
+        .logo i {
+            font-size: 2rem;
+        }
+        
+        .user-actions {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .btn {
+            padding: 10px 20px;
+            border-radius: 50px;
+            border: none;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+        
+        .btn-primary {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+        }
+        
+        .btn-outline {
+            background: transparent;
+            border: 2px solid var(--primary);
+            color: var(--primary);
+        }
+        
+        .btn:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .rating-section {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            margin-bottom: 50px;
+            min-height: 600px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+        
+        .section-title {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 2rem;
+            color: var(--dark);
+        }
+        
+        .current-photo-container {
+            width: 100%;
+            max-width: 400px;
+            height: 500px;
+            position: relative;
+            margin-bottom: 30px;
+            border-radius: 20px;
+            overflow: hidden;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+        }
+        
+        .current-photo {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+            border-radius: 20px;
+            transition: transform 0.3s;
+        }
+        
+        .rating-controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 20px;
+            margin-bottom: 20px;
+            width: 100%;
+            max-width: 400px;
+        }
+        
+        .rating-slider-container {
+            width: 100%;
+            padding: 0 10px;
+        }
+        
+        .rating-slider {
+            width: 100%;
+            height: 10px;
+            -webkit-appearance: none;
+            appearance: none;
+            background: linear-gradient(to right, #f44336, #ff9800, #ffeb3b, #8bc34a, #4caf50);
+            border-radius: 5px;
+            outline: none;
+        }
+        
+        .rating-slider::-webkit-slider-thumb {
+            -webkit-appearance: none;
+            appearance: none;
+            width: 25px;
+            height: 25px;
+            border-radius: 50%;
+            background: var(--primary);
+            cursor: pointer;
+            border: 3px solid white;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        }
+        
+        .rating-value-display {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--primary);
+            text-align: center;
+            width: 50px;
+        }
+        
+        .rating-labels {
+            display: flex;
+            justify-content: space-between;
+            width: 100%;
+            margin-top: 5px;
+            font-size: 0.8rem;
+            color: #777;
+        }
+        
+        .submit-rating {
+            padding: 12px 40px;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            border: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 1.1rem;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+        }
+        
+        .submit-rating:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+        }
+        
+        .progress-info {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #777;
+        }
+        
+        .top-photos-section {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            margin-bottom: 50px;
+        }
+        
+        .top-photos-container {
+            display: flex;
+            overflow-x: auto;
+            gap: 20px;
+            padding: 10px 0;
+            scrollbar-width: thin;
+            scrollbar-color: var(--primary) #f1f1f1;
+        }
+        
+        .top-photos-container::-webkit-scrollbar {
+            height: 8px;
+        }
+        
+        .top-photos-container::-webkit-scrollbar-track {
+            background: #f1f1f1;
+            border-radius: 10px;
+        }
+        
+        .top-photos-container::-webkit-scrollbar-thumb {
+            background: var(--primary);
+            border-radius: 10px;
+        }
+        
+        .top-photo-card {
+            flex: 0 0 auto;
+            width: 200px;
+            background: white;
+            border-radius: 15px;
+            overflow: hidden;
+            box-shadow: 0 5px 15px rgba(0, 0, 0, 0.08);
+            transition: all 0.3s ease;
+            position: relative;
+        }
+        
+        .top-photo-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+        }
+        
+        .top-photo-img {
+            width: 100%;
+            height: 200px;
+            object-fit: cover;
+        }
+        
+        .top-photo-rating {
+            position: absolute;
+            top: 10px;
+            right: 10px;
+            background: rgba(255, 255, 255, 0.9);
+            padding: 5px 10px;
+            border-radius: 20px;
+            font-weight: bold;
+            color: var(--primary);
+            display: flex;
+            align-items: center;
+            gap: 5px;
+        }
+        
+        .top-photo-votes {
+            position: absolute;
+            bottom: 10px;
+            left: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            color: white;
+            padding: 3px 8px;
+            border-radius: 10px;
+            font-size: 0.8rem;
+            display: flex;
+            align-items: center;
+            gap: 3px;
+        }
+        
+        .upload-section {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.08);
+            margin-bottom: 50px;
+        }
+        
+        .upload-area {
+            border: 2px dashed var(--gray);
+            border-radius: 15px;
+            padding: 40px 20px;
+            text-align: center;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            background-color: #fafafa;
+        }
+        
+        .upload-area.active {
+            border-color: var(--primary);
+            background-color: #fff5f7;
+        }
+        
+        .upload-area i {
+            font-size: 48px;
+            color: var(--primary);
+            margin-bottom: 15px;
+        }
+        
+        .upload-btn {
+            display: inline-block;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+            padding: 12px 30px;
+            border-radius: 50px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: all 0.3s ease;
+            border: none;
+            margin-top: 10px;
+        }
+        
+        #file-input {
+            display: none;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 30px 0;
+            margin-top: 50px;
+            color: #777;
+            border-top: 1px solid var(--gray);
+        }
+        
+        .hidden {
+            display: none !important;
+        }
+        
+        .active-section {
+            display: block;
+        }
+        
+        .tabs {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 30px;
+            gap: 10px;
+        }
+        
+        .tab {
+            padding: 12px 30px;
+            background: white;
+            border: none;
+            border-radius: 50px;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s;
+            box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+        }
+        
+        .tab.active {
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            color: white;
+        }
+        
+        .empty-state {
+            text-align: center;
+            padding: 40px;
+            color: #777;
+        }
+        
+        .empty-state i {
+            font-size: 60px;
+            margin-bottom: 15px;
+            color: #ddd;
+        }
+        
+        /* Стили для модального окна регистрации */
+        .modal-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background-color: rgba(0, 0, 0, 0.5);
+            display: none;
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+        }
+        
+        .modal-overlay.active {
+            display: flex;
+        }
+        
+        .modal {
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            width: 90%;
+            max-width: 500px;
+            box-shadow: 0 15px 40px rgba(0, 0, 0, 0.2);
+            position: relative;
+            animation: modalAppear 0.3s ease;
+        }
+        
+        @keyframes modalAppear {
+            from {
+                opacity: 0;
+                transform: scale(0.9);
+            }
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+        
+        .modal-close {
+            position: absolute;
+            top: 15px;
+            right: 15px;
+            background: none;
+            border: none;
+            font-size: 1.5rem;
+            cursor: pointer;
+            color: #777;
+            transition: color 0.3s;
+        }
+        
+        .modal-close:hover {
+            color: var(--primary);
+        }
+        
+        .modal-title {
+            text-align: center;
+            margin-bottom: 30px;
+            font-size: 1.8rem;
+            color: var(--dark);
+        }
+        
+        .form-group {
+            margin-bottom: 20px;
+        }
+        
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            font-weight: 500;
+        }
+        
+        .form-control {
+            width: 100%;
+            padding: 12px 15px;
+            border: 1px solid var(--gray);
+            border-radius: 10px;
+            font-size: 1rem;
+            transition: border 0.3s;
+        }
+        
+        .form-control:focus {
+            border-color: var(--primary);
+            outline: none;
+        }
+        
+        .form-actions {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 30px;
+        }
+        
+        .form-switch {
+            text-align: center;
+            margin-top: 20px;
+            color: #777;
+        }
+        
+        .form-switch a {
+            color: var(--primary);
+            text-decoration: none;
+            font-weight: 500;
+            cursor: pointer;
+        }
+        
+        .form-switch a:hover {
+            text-decoration: underline;
+        }
+        
+        .user-info {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .user-avatar {
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        
+        @media (max-width: 768px) {
+            .current-photo-container {
+                height: 400px;
+            }
+            
+            .top-photo-card {
+                width: 150px;
+            }
+            
+            .top-photo-img {
+                height: 150px;
+            }
+            
+            .form-actions {
+                flex-direction: column;
+                gap: 10px;
+            }
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo">
+                <i class="fas fa-heart"></i>
+                <span>Roster</span>
+            </div>
+            <div class="user-actions">
+                <?php if (isset($_SESSION['user_id'])): ?>
+                <div class="user-info">
+                    <div class="user-avatar"><?= strtoupper(substr($_SESSION['user_name'], 0, 1)) ?></div>
+                    <span id="user-name"><?= htmlspecialchars($_SESSION['user_name']) ?></span>
+                    <a href="logout.php" class="btn btn-outline">Выйти</a>
+                </div>
+                <?php else: ?>
+                <div class="user-actions-default">
+                    <button class="btn btn-outline" id="login-btn">Войти</button>
+                    <button class="btn btn-primary" id="register-btn">Регистрация</button>
+                </div>
+                <?php endif; ?>
+            </div>
+        </header>
+        
+        <?php if (isset($_SESSION['user_id'])): ?>
+        <div class="tabs">
+            <button class="tab active" data-tab="rating">Оценивать фото</button>
+            <button class="tab" data-tab="top">Топ фото</button>
+            <button class="tab" data-tab="upload">Мои фото</button>
+        </div>
+        
+        <!-- Секция оценки фотографий -->
+        <section id="rating-section" class="rating-section active-section">
+            <h2 class="section-title">Оцените фотографию</h2>
+            
+            <div class="progress-info">
+                Осталось фотографий: <span id="photos-left">0</span>
+            </div>
+            
+            <div class="current-photo-container">
+                <div id="photo-container">
+                    <!-- Фото будет загружено через JavaScript -->
+                </div>
+            </div>
+            
+            <div class="rating-controls" id="rating-controls" style="display: none;">
+                <div class="rating-slider-container">
+                    <input type="range" min="1" max="10" value="5" class="rating-slider" id="rating-slider">
+                    <div class="rating-labels">
+                        <span>1</span>
+                        <span>10</span>
+                    </div>
+                </div>
+                <div class="rating-value-display" id="rating-value">5</div>
+                <button class="submit-rating" id="submit-rating">Оценить</button>
+            </div>
+            
+            <div class="progress-info" id="no-photos-message">
+                Нет фотографий для оценки. Загрузите свои фотографии или дождитесь, пока другие пользователи загрузят свои.
+            </div>
+        </section>
+        
+        <!-- Секция топа фотографий -->
+        <section id="top-section" class="top-photos-section hidden">
+            <h2 class="section-title">Топ фотографий от всех пользователей</h2>
+            
+            <div class="top-photos-container" id="top-photos-container">
+                <!-- Топ фото будут загружаться через JavaScript -->
+            </div>
+            
+            <div class="empty-state" id="empty-top">
+                <i class="fas fa-trophy"></i>
+                <p>Пока нет оцененных фотографий</p>
+                <p>Начните оценивать фотографии, чтобы увидеть здесь топ</p>
+            </div>
+        </section>
+        
+        <!-- Секция загрузки фотографий -->
+        <section id="upload-section" class="upload-section hidden">
+            <h2 class="section-title">Загрузите свои фотографии</h2>
+            
+            <form id="upload-form" enctype="multipart/form-data">
+                <div class="upload-area" id="upload-area">
+                    <i class="fas fa-cloud-upload-alt"></i>
+                    <p>Перетащите сюда свои фотографии или</p>
+                    <label for="file-input" class="upload-btn">Выберите файлы</label>
+                    <input type="file" id="file-input" name="photos[]" accept="image/*" multiple>
+                    <div id="file-list" style="margin-top: 15px;"></div>
+                </div>
+                <p style="text-align: center; margin-bottom: 20px;">Рекомендуем загружать качественные фотографии. Максимальный размер: 5MB</p>
+                <button type="submit" class="submit-rating" style="display: block; margin: 0 auto;">Загрузить выбранные фото</button>
+            </form>
+            
+            <div id="upload-status" style="text-align: center; margin: 20px 0;"></div>
+            
+            <h3 style="margin: 30px 0 15px 0;">Ваши загруженные фото</h3>
+            <div id="user-photos" class="top-photos-container">
+                <!-- Фото пользователя будут загружаться здесь -->
+            </div>
+        </section>
+        
+        <?php else: ?>
+        <div class="rating-section" style="text-align: center; padding: 60px;">
+            <h2>Добро пожаловать в Roster!</h2>
+            <p style="margin: 20px 0; font-size: 1.2rem;">Оценивайте фотографии других пользователей и загружайте свои</p>
+            <div style="display: flex; gap: 15px; justify-content: center; margin-top: 30px;">
+                <button class="btn btn-primary" id="welcome-register-btn">Зарегистрироваться</button>
+                <button class="btn btn-outline" id="welcome-login-btn">Войти</button>
+            </div>
+        </div>
+        <?php endif; ?>
+        
+        <footer>
+            <p>© 2025 Roster - Все права защищены.</p>
+            <p>Политика конфиденциальности | Условия использования</p>
+        </footer>
+    </div>
+
+    <!-- Модальное окно регистрации -->
+    <div class="modal-overlay" id="register-modal">
+        <div class="modal">
+            <button class="modal-close" id="register-close">&times;</button>
+            <h2 class="modal-title">Регистрация</h2>
+            <form id="register-form" action="register.php" method="post">
+                <div class="form-group">
+                    <label for="reg-name">Имя</label>
+                    <input type="text" id="reg-name" name="name" class="form-control" placeholder="Ваше имя" required>
+                </div>
+                <div class="form-group">
+                    <label for="reg-login">Логин</label>
+                    <input type="text" id="reg-login" name="login" class="form-control" placeholder="Придумайте логин" required minlength="3">
+                </div>
+                <div class="form-group">
+                    <label for="reg-password">Пароль</label>
+                    <input type="password" id="reg-password" name="password" class="form-control" placeholder="Придумайте пароль" required minlength="6">
+                </div>
+                <div class="form-group">
+                    <label for="reg-confirm">Подтверждение пароля</label>
+                    <input type="password" id="reg-confirm" name="confirm_password" class="form-control" placeholder="Повторите пароль" required>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-outline" id="switch-to-login">Уже есть аккаунт?</button>
+                    <button type="submit" class="btn btn-primary">Зарегистрироваться</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Модальное окно входа -->
+    <div class="modal-overlay" id="login-modal">
+        <div class="modal">
+            <button class="modal-close" id="login-close">&times;</button>
+            <h2 class="modal-title">Вход</h2>
+            <form id="login-form" action="login.php" method="post">
+                <div class="form-group">
+                    <label for="login-login">Логин</label>
+                    <input type="text" id="login-login" name="login" class="form-control" placeholder="Ваш логин" required>
+                </div>
+                <div class="form-group">
+                    <label for="login-password">Пароль</label>
+                    <input type="password" id="login-password" name="password" class="form-control" placeholder="Ваш пароль" required>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-outline" id="switch-to-register">Создать аккаунт</button>
+                    <button type="submit" class="btn btn-primary">Войти</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            const fileInput = document.getElementById('file-input');
+            const uploadArea = document.getElementById('upload-area');
+            const tabs = document.querySelectorAll('.tab');
+            const sections = document.querySelectorAll('section');
+            const loginBtn = document.getElementById('login-btn');
+            const registerBtn = document.getElementById('register-btn');
+            const welcomeLoginBtn = document.getElementById('welcome-login-btn');
+            const welcomeRegisterBtn = document.getElementById('welcome-register-btn');
+            const ratingSlider = document.getElementById('rating-slider');
+            const ratingValue = document.getElementById('rating-value');
+            const submitRating = document.getElementById('submit-rating');
+            const photosLeftElement = document.getElementById('photos-left');
+            const topPhotosContainer = document.getElementById('top-photos-container');
+            const emptyTop = document.getElementById('empty-top');
+            const noPhotosMessage = document.getElementById('no-photos-message');
+            const ratingControls = document.getElementById('rating-controls');
+            const photoContainer = document.getElementById('photo-container');
+            
+            // Элементы модальных окон
+            const registerModal = document.getElementById('register-modal');
+            const loginModal = document.getElementById('login-modal');
+            const registerClose = document.getElementById('register-close');
+            const loginClose = document.getElementById('login-close');
+            const switchToLogin = document.getElementById('switch-to-login');
+            const switchToRegister = document.getElementById('switch-to-register');
+            
+            // Обновление значения рейтинга при движении слайдера
+            if (ratingSlider) {
+                ratingSlider.addEventListener('input', function() {
+                    ratingValue.textContent = this.value;
+                });
+            }
+            
+            // Переключение между вкладками
+            if (tabs.length > 0) {
+                tabs.forEach(tab => {
+                    tab.addEventListener('click', function() {
+                        const tabId = this.getAttribute('data-tab');
+                        
+                        // Обновляем активную вкладку
+                        tabs.forEach(t => t.classList.remove('active'));
+                        this.classList.add('active');
+                        
+                        // Показываем соответствующую секцию
+                        sections.forEach(section => {
+                            section.classList.remove('active-section');
+                            section.classList.add('hidden');
+                        });
+                        
+                        document.getElementById(`${tabId}-section`).classList.remove('hidden');
+                        document.getElementById(`${tabId}-section`).classList.add('active-section');
+                        
+                        // Если перешли на вкладку топа, обновляем его
+                        if (tabId === 'top') {
+                            loadTopPhotos();
+                        }
+                        
+                        // Если перешли на вкладку загрузки, загружаем фото пользователя
+                        if (tabId === 'upload') {
+                            loadUserPhotos();
+                        }
+                    });
+                });
+            }
+            
+            // Загрузка фото для оценки
+            function loadCurrentPhoto() {
+                fetch('get_photos.php')
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.photo) {
+                            photoContainer.innerHTML = `
+                                <img src="uploads/${data.photo.filename}" alt="Текущее фото" class="current-photo" data-photo-id="${data.photo.id}">
+                                <div style="text-align: center; margin-top: 10px; color: #666;">
+                                    Загружено: ${data.photo.user_name}
+                                </div>
+                            `;
+                            ratingControls.style.display = 'flex';
+                            noPhotosMessage.style.display = 'none';
+                        } else {
+                            photoContainer.innerHTML = '';
+                            ratingControls.style.display = 'none';
+                            noPhotosMessage.style.display = 'block';
+                        }
+                        updatePhotosCount();
+                    });
+            }
+            
+            // Обновление счетчика фото
+            function updatePhotosCount() {
+                fetch('get_photos.php?count=true')
+                    .then(response => response.json())
+                    .then(data => {
+                        photosLeftElement.textContent = data.count;
+                    });
+            }
+            
+            // Оценка фото
+            if (submitRating) {
+                submitRating.addEventListener('click', function() {
+                    const rating = parseInt(ratingSlider.value);
+                    const currentPhoto = document.querySelector('.current-photo');
+                    
+                    if (!currentPhoto) {
+                        alert('Нет фото для оценки');
+                        return;
+                    }
+                    
+                    const photoId = currentPhoto.getAttribute('data-photo-id');
+                    
+                    // Отправляем оценку на сервер
+                    fetch('rate.php', {
+                        method: 'POST',
+                        headers: {
+                            'Content-Type': 'application/x-www-form-urlencoded',
+                        },
+                        body: `photo_id=${photoId}&rating=${rating}`
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            // Загружаем следующее фото
+                            loadCurrentPhoto();
+                            ratingSlider.value = 5;
+                            ratingValue.textContent = '5';
+                        } else {
+                            alert('Ошибка: ' + data.message);
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Error:', error);
+                        alert('Произошла ошибка при оценке фото');
+                    });
+                });
+            }
+            
+            // Загрузка топа фото
+            function loadTopPhotos() {
+                fetch('get_top_photos.php')
+                    .then(response => response.json())
+                    .then(data => {
+                        topPhotosContainer.innerHTML = '';
+                        
+                        if (data.photos.length === 0) {
+                            emptyTop.style.display = 'block';
+                            return;
+                        }
+                        
+                        emptyTop.style.display = 'none';
+                        
+                        data.photos.forEach(photo => {
+                            const photoCard = document.createElement('div');
+                            photoCard.className = 'top-photo-card';
+                            
+                            photoCard.innerHTML = `
+                                <img src="uploads/${photo.filename}" alt="Топ фото" class="top-photo-img">
+                                <div class="top-photo-rating">
+                                    <i class="fas fa-star"></i>
+                                    <span>${photo.average_rating.toFixed(1)}</span>
+                                </div>
+                                <div class="top-photo-votes">
+                                    <i class="fas fa-users"></i>
+                                    <span>${photo.vote_count}</span>
+                                </div>
+                                <div style="padding: 10px; font-size: 0.8rem; text-align: center;">
+                                    ${photo.user_name}
+                                </div>
+                            `;
+                            
+                            topPhotosContainer.appendChild(photoCard);
+                        });
+                    });
+            }
+            
+            // Загрузка фото пользователя
+            function loadUserPhotos() {
+                fetch('get_user_photos.php')
+                    .then(response => response.json())
+                    .then(data => {
+                        const container = document.getElementById('user-photos');
+                        container.innerHTML = '';
+                        
+                        if (data.photos && data.photos.length > 0) {
+                            data.photos.forEach(photo => {
+                                const photoCard = document.createElement('div');
+                                photoCard.className = 'top-photo-card';
+                                
+                                photoCard.innerHTML = `
+                                    <img src="uploads/${photo.filename}" alt="Ваше фото" class="top-photo-img">
+                                    <div class="top-photo-rating">
+                                        <i class="fas fa-star"></i>
+                                        <span>${photo.average_rating ? photo.average_rating.toFixed(1) : 'Нет'}</span>
+                                    </div>
+                                    <div class="top-photo-votes">
+                                        <i class="fas fa-users"></i>
+                                        <span>${photo.vote_count || 0}</span>
+                                    </div>
+                                `;
+                                
+                                container.appendChild(photoCard);
+                            });
+                        } else {
+                            container.innerHTML = '<div class="empty-state"><i class="fas fa-camera"></i><p>Вы еще не загрузили фотографии</p></div>';
+                        }
+                    });
+            }
+            
+            // Обработка загрузки файлов
+            const uploadForm = document.getElementById('upload-form');
+            if (uploadForm) {
+                // Обработка выбора файлов
+                fileInput.addEventListener('change', function() {
+                    const fileList = document.getElementById('file-list');
+                    fileList.innerHTML = '';
+                    
+                    if (this.files.length > 0) {
+                        fileList.innerHTML = '<p>Выбрано файлов: ' + this.files.length + '</p>';
+                    }
+                });
+                
+                // Обработка перетаскивания
+                uploadArea.addEventListener('dragover', function(e) {
+                    e.preventDefault();
+                    uploadArea.classList.add('active');
+                });
+                
+                uploadArea.addEventListener('dragleave', function() {
+                    uploadArea.classList.remove('active');
+                });
+                
+                uploadArea.addEventListener('drop', function(e) {
+                    e.preventDefault();
+                    uploadArea.classList.remove('active');
+                    const files = e.dataTransfer.files;
+                    fileInput.files = files;
+                    
+                    const fileList = document.getElementById('file-list');
+                    fileList.innerHTML = '<p>Выбрано файлов: ' + files.length + '</p>';
+                });
+                
+                // Обработка отправки формы
+                uploadForm.addEventListener('submit', function(e) {
+                    e.preventDefault();
+                    
+                    const formData = new FormData(this);
+                    const statusDiv = document.getElementById('upload-status');
+                    const files = fileInput.files;
+                    
+                    if (files.length === 0) {
+                        statusDiv.innerHTML = '<p style="color: red;">Выберите файлы для загрузки</p>';
+                        return;
+                    }
+                    
+                    statusDiv.innerHTML = '<p>Загрузка ' + files.length + ' файлов...</p>';
+                    
+                    fetch('upload.php', {
+                        method: 'POST',
+                        body: formData
+                    })
+                    .then(response => response.json())
+                    .then(data => {
+                        if (data.success) {
+                            statusDiv.innerHTML = '<p style="color: green;">✓ Успешно загружено ' + data.uploaded_count + ' файлов</p>';
+                            uploadForm.reset();
+                            document.getElementById('file-list').innerHTML = '';
+                            loadUserPhotos();
+                            loadCurrentPhoto(); // Обновляем доступные фото для оценки
+                        } else {
+                            let errorMsg = 'Ошибка загрузки';
+                            if (data.errors && data.errors.length > 0) {
+                                errorMsg += ': ' + data.errors.join(', ');
+                            }
+                            statusDiv.innerHTML = '<p style="color: red;">✗ ' + errorMsg + '</p>';
+                        }
+                    })
+                    .catch(error => {
+                        console.error('Ошибка:', error);
+                        statusDiv.innerHTML = '<p style="color: red;">✗ Произошла ошибка при загрузке</p>';
+                    });
+                });
+            }
+            
+            // Инициализация
+            if (document.getElementById('rating-section')) {
+                loadCurrentPhoto();
+            }
+            
+            // Модальные окна
+            if (registerBtn) registerBtn.addEventListener('click', () => registerModal.classList.add('active'));
+            if (welcomeRegisterBtn) welcomeRegisterBtn.addEventListener('click', () => registerModal.classList.add('active'));
+            if (loginBtn) loginBtn.addEventListener('click', () => loginModal.classList.add('active'));
+            if (welcomeLoginBtn) welcomeLoginBtn.addEventListener('click', () => loginModal.classList.add('active'));
+            
+            registerClose.addEventListener('click', () => registerModal.classList.remove('active'));
+            loginClose.addEventListener('click', () => loginModal.classList.remove('active'));
+            
+            switchToLogin.addEventListener('click', () => {
+                registerModal.classList.remove('active');
+                loginModal.classList.add('active');
+            });
+            
+            switchToRegister.addEventListener('click', () => {
+                loginModal.classList.remove('active');
+                registerModal.classList.add('active');
+            });
+            
+            document.addEventListener('click', function(e) {
+                if (e.target === registerModal) {
+                    registerModal.classList.remove('active');
+                }
+                if (e.target === loginModal) {
+                    loginModal.classList.remove('active');
+                }
+            });
+        });
+    </script>
+</body>
+</html>
